@@ -1,2 +1,2 @@
 # SNC - Bombs
- Provides a better naming convention for Witcher Gear
+ Provides a better naming convention for Bombs
